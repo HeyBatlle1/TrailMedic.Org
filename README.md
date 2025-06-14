@@ -152,6 +152,7 @@ graph LR
 - **Wilderness survival situations** (resource-limited medical care)
 - **Professional guide training** (structured emergency response protocols)
 - **Military/tactical medicine** (field medical assessment)
+- ***Survivalists that think AII is going to kiill everyone would pay to have an off grid local run medical advisor they OWN
 
 ### Potential Lives Saved
 - **200+ million wilderness recreation participants** annually in North America
@@ -297,4 +298,4 @@ uvicorn api_server:app --host 0.0.0.0 --port 8002
 
 ---
 
-**Built with ❤️ for wilderness safety and emergency preparedness**
+**Built with ❤️ and [![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt-blue)](https://bolt.new) for wilderness safety and emergency preparedness**
