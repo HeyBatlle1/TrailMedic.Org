@@ -2,7 +2,7 @@
 **AI-Powered Emergency Medical Guidance for Wilderness Survival**
 
 [![Deploy Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/trailmedic/deploys)
-[![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt-blue)](https://bolt.new)
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **🌐 Live Application:** [TrailMedic.org](https://trailmedic.org)  
@@ -298,4 +298,4 @@ uvicorn api_server:app --host 0.0.0.0 --port 8002
 
 ---
 
-**Built with ❤️ and [![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt-blue)](https://bolt.new) for wilderness safety and emergency preparedness**
+**Built with ❤️for wilderness safety and emergency preparedness**
