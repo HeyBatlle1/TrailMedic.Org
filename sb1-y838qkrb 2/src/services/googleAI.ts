@@ -3,7 +3,7 @@ import { TraumaAssessmentRequest, TraumaAssessmentResponse } from '../types';
 
 // Use environment variable or fallback to a placeholder
 // This will be replaced with the actual API key in production
-const API_KEY = import.meta.env.VITE_GEMINI_API_KEY || 'AIzaSyCo9EOxFtc1i77Qvu7v0eohWvMYOcRaHpI';
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY || 'AIzaSyA-zFHIXpULagi0bLM2AM-Gmt3my5UK_Us';
 const MODEL_NAME = 'gemini-2.0-flash';
 
 // Initialize the API client conditionally
